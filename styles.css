@@ -378,7 +378,7 @@ h1{
 .bottom_box3{
 	float: left;
 	width: 165px;
-	margin-left: 56px;
+	margin-left: 150px;
 }
 
 .bottom_box3_text{
@@ -412,12 +412,14 @@ background:url(images/bottom_fish4.png) top left no-repeat;
 	
 .bottom_box4{
 	float: left;
-	width: 223px;
-	margin-left: 49px;
+	width: 250px;
+	margin-left: 155px;
 }
 	
 .contact_text{
-	line-height: 24px;}
+	line-height: 24px;
+        margin-left:60px; 	
+}
 
 .contact_a{
 	font-size: 12px;
