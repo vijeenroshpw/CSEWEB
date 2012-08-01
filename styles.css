@@ -218,7 +218,7 @@ body{
 }
 
 #right_row1{
-	height: 150px;
+	height: 900px;
 }
 
 .right_box{
@@ -280,6 +280,7 @@ h4{
 #right_row2_left{
 	float: left;
 	width: 390px;
+	margin-top: -750px;
 }
 
 #right_row2_right{
